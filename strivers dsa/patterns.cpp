@@ -857,7 +857,7 @@ int main() {
     int N = 5;
 
     // Call pattern function
-    sol.pattern22(N);
+    sol.pattern22(N);                       
 
     return 0;
 }
